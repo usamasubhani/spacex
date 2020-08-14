@@ -11,9 +11,8 @@ const Navigation = () => {
                 <MenuIcon />
                 </IconButton>
                 <Typography variant="h6" >
-                News
+                SpaceX
                 </Typography>
-                <Button color="inherit">Login</Button>
             </Toolbar>
             </AppBar>  
         </>
